@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://generadorqrgratis.github.io/sitemap.xml
