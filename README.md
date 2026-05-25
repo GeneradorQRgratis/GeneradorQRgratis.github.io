@@ -1,0 +1,1 @@
+# GeneradorQRgratis.github.io
